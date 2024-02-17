@@ -4,4 +4,7 @@ Repozytorium na potrzeby laboratoriów z GIT, CI-CD, Azure oraz programowania ap
 (c) 2024
 
 Test commita.
+Zmiana Karol-K
+
+Wgranie 3 plików
 Nowy wiersz tekstu
